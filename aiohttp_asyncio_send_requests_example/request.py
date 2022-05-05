@@ -1,6 +1,6 @@
 import aiohttp  # pip install aiohttp
 import asyncio  # o'rnatish shart emas
-import pprint  # pip install pprint
+import pprint   # o'rnatish shart emas
 
 
 async def main():
